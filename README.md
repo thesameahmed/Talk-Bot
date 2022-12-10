@@ -1,7 +1,8 @@
 # /The\/Crown\
-Text-To-Speech App Made Completely on Swift Playgrounds
+The Most Complex App You Can Possibly Make In Swift Playgrounds!!
 
-## Date Started: 10/26/2022
+This App will explore the full limitations of Swift Playgrounds.
 
-### Overview:
-This project is meant to explore th emassive changes in Swift Playgrounds introduced with Swift Playgrounds 4. 
+At that point - I am fully transitioning to XCode while having full knowledge of the capabilities & limitations of the beautiful Playgrounds App!
+
+
