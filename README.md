@@ -1,5 +1,7 @@
-# /The\/Crown\
-The Most Complex App You Can Possibly Make In Swift Playgrounds!!
+# Talk-Bot
+
+Speech-To-Text & Text-To-Spech With Effects!
+
 
 This App will explore the full limitations of Swift Playgrounds.
 
